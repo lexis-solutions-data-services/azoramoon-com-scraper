@@ -19,9 +19,7 @@ Easily extract manga and series information from Azoramoon using this Apify acto
 | Stat | Value |
 |------|-------|
 | **Version** | `0.0.2` |
-| **Total Runs** | 112 |
-| **Total Users** | 7 |
-| **Stats Date** | Nov 30, 2025 |
+| **Last Update** | Nov 30, 2025 |
 
 ---
 
